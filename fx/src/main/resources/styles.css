@@ -1,0 +1,12 @@
+@font-face {
+    src: url('Larsseit-Medium.ttf');
+}
+
+.label {
+    -fx-font-size: 24px;
+    -fx-font-family: "Larsseit Medium"
+}
+
+.grayfs .text {
+    -fx-font-smoothing-type: gray;
+}
